@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Start Both" type="CompoundRunConfigurationType">
+    <toRun name="eureka-server" type="SpringBootApplicationConfigurationType" />
+    <toRun name="service-client" type="SpringBootApplicationConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>

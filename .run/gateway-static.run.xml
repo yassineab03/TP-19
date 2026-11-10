@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="gateway-static" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="gateway" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="ma.emsi.gateway.GatewayApplication" />
+    <option name="ACTIVE_PROFILES" value="static" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gateway" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>

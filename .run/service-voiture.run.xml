@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="service-voiture" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="service-voiture" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="ma.emsi.voiture.VoitureApplication" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/service-voiture" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>

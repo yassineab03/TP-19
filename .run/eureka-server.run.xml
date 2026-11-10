@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="eureka-server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="eureka-server" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="ma.emsi.eureka.EurekaServerApplication" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eureka-server" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
